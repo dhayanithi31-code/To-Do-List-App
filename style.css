@@ -1,0 +1,22 @@
+
+body {
+    background: #eaf2ff;
+    font-family: Arial, sans-serif;
+}
+
+.todo-box {
+    max-width: 500px;
+    background: white;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+}
+
+h2 {
+    color: #0d6efd;
+}
+
+.completed {
+    text-decoration: line-through;
+    color: gray;
+}
